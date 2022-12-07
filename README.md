@@ -1,1 +1,1 @@
-Hi, I’m Madeline Hakala! I am a current bioinformatics master's student.
+Hi, I’m Madeline Hakala! I am a current BS Biology/MS Bioinformatics master's student.
