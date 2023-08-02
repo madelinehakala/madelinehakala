@@ -1,1 +1,1 @@
-Hi, I’m Madeline Hakala! I'm a current BS Biology/MS Bioinformatics student.
+Hello! I'm Madeline Hakala, a current master's student in bioinformatics at Loyola University Chicago. I'm using this space to document my original research as well as class projects. Most of my work relates to transcriptomics and metagenomics, but I also have completed projects in machine learning and clinical data science.
