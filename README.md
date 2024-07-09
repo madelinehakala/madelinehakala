@@ -1,1 +1,0 @@
-Hello! I'm Madeline Hakala, a bioinformatics graduate student. I have 2+ years of bioinformatics research experience in academia as well as 1.5+ years in the corporate biotechnology/medical devices world. I'm using this space to document my original research and personal projects.
